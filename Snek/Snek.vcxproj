@@ -41,7 +41,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\Documents\Visual Studio 2013\Projects\Snek\Snek\SDL2-2.0.3\include;D:\Documents\Visual Studio 2013\Projects\Snek\Snek\SDL2_ttf-2.0.12\include;D:\Documents\Visual Studio 2013\Projects\Snek\Snek\SDL2_image-2.0.0\include;$(IncludePath)</IncludePath>
+    <IncludePath>C:\Users\panro\Documents\GitHub\Snek\Snek\SDL2_image-2.0.0\include;C:\Users\panro\Documents\GitHub\Snek\Snek\SDL2_ttf-2.0.12\include;C:\Users\panro\Documents\GitHub\Snek\Snek\SDL2-2.0.3\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>true</LinkIncremental>
@@ -56,13 +56,13 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>D:\Documents\Visual Studio 2013\Projects\Snek\Snek\SDL2-2.0.3\include;D:\Documents\Visual Studio 2013\Projects\Snek\Snek\SDL2_ttf-2.0.12\include;D:\Documents\Visual Studio 2013\Projects\Snek\Snek\SDL2_image-2.0.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\panro\Documents\GitHub\Snek\Snek\SDL2_image-2.0.0\include;C:\Users\panro\Documents\GitHub\Snek\Snek\SDL2_ttf-2.0.12\include;C:\Users\panro\Documents\GitHub\Snek\Snek\SDL2-2.0.3\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>D:\Documents\Visual Studio 2013\Projects\Snek\Snek\SDL2-2.0.3\lib\x86;D:\Documents\Visual Studio 2013\Projects\Snek\Snek\SDL2_ttf-2.0.12\lib\x86;D:\Documents\Visual Studio 2013\Projects\Snek\Snek\SDL2_image-2.0.0\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\panro\Documents\GitHub\Snek\Snek\SDL2_image-2.0.0\lib\x86;C:\Users\panro\Documents\GitHub\Snek\Snek\SDL2_ttf-2.0.12\lib\x86;C:\Users\panro\Documents\GitHub\Snek\Snek\SDL2-2.0.3\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_ttf.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
