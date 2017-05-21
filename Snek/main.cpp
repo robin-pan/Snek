@@ -2,6 +2,13 @@
 #include "SDL_image.h"
 #include "SDL_ttf.h"
 #include <stdio.h>
+
+int main() {
+
+	return 0;
+}
+
+/*
 #include <string>
 #include <sstream>
 #include <cmath>
@@ -569,3 +576,4 @@ int main(int argc, char* args[])
 
 	return 0;
 }
+*/

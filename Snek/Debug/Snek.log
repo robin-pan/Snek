@@ -1,3 +1,3 @@
-﻿  Skipping... (no relevant changes detected)
-  main.cpp
-  Snek.vcxproj -> C:\Users\panro\Documents\GitHub\Snek\Debug\Snek.exe
+﻿  main.cpp
+SDL2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol _SDL_main referenced in function _main
+C:\Users\panro\Documents\GitHub\Snek\Debug\Snek.exe : fatal error LNK1120: 1 unresolved externals
