@@ -1,0 +1,39 @@
+﻿  testautomation.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\Test\testautomation.c': No such file or directory
+  testautomation_audio.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_audio.c': No such file or directory
+  testautomation_clipboard.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_clipboard.c': No such file or directory
+  testautomation_events.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_events.c': No such file or directory
+  testautomation_hints.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_hints.c': No such file or directory
+  testautomation_keyboard.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_keyboard.c': No such file or directory
+  testautomation_main.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_main.c': No such file or directory
+  testautomation_mouse.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_mouse.c': No such file or directory
+  testautomation_pixels.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_pixels.c': No such file or directory
+  testautomation_platform.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_platform.c': No such file or directory
+  testautomation_rect.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_rect.c': No such file or directory
+  testautomation_render.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_render.c': No such file or directory
+  testautomation_rwops.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_rwops.c': No such file or directory
+  testautomation_sdltest.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_sdltest.c': No such file or directory
+  testautomation_stdlib.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_stdlib.c': No such file or directory
+  testautomation_surface.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_surface.c': No such file or directory
+  testautomation_syswm.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_syswm.c': No such file or directory
+  testautomation_timer.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_timer.c': No such file or directory
+  testautomation_video.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\testautomation_video.c': No such file or directory
+  Generating Code...

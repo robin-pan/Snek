@@ -1,0 +1,14 @@
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/CMakeFiles/list_install_components.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/CMakeFiles/test_1_main_js.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/CMakeFiles/test.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/CMakeFiles/test_2_data_js.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/CMakeFiles/edit_cache.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/CMakeFiles/install.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/CMakeFiles/rebuild_cache.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/CMakeFiles/install/local.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/oxygine-framework/CMakeFiles/list_install_components.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/oxygine-framework/CMakeFiles/oxygine-framework.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/oxygine-framework/CMakeFiles/edit_cache.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/oxygine-framework/CMakeFiles/install.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/oxygine-framework/CMakeFiles/rebuild_cache.dir
+C:/Users/panro/Documents/Snek/Snek/proj.cmake/build_emsc/oxygine-framework/CMakeFiles/install/local.dir

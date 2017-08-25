@@ -1,0 +1,16 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/cell.cpp.o"
+  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/example.cpp.o"
+  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/gdisplay.cpp.o"
+  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/grid.cpp.o"
+  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/snake.cpp.o"
+  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/subject.cpp.o"
+  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/main.cpp.o"
+  "test.pdb"
+  "test"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/test.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

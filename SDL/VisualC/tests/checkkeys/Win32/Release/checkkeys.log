@@ -1,0 +1,2 @@
+﻿  checkkeys.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\test\checkkeys.c': No such file or directory

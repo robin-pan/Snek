@@ -1,0 +1,14 @@
+/home/robin/Documents/Snek/Snek/proj.cmake/build/CMakeFiles/install.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/CMakeFiles/list_install_components.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/CMakeFiles/rebuild_cache.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/CMakeFiles/test.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/CMakeFiles/install/strip.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/CMakeFiles/install/local.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/CMakeFiles/edit_cache.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/CMakeFiles/install.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/CMakeFiles/list_install_components.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/CMakeFiles/rebuild_cache.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/CMakeFiles/oxygine-framework.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/CMakeFiles/install/strip.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/CMakeFiles/install/local.dir
+/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/CMakeFiles/edit_cache.dir
