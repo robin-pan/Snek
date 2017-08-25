@@ -1,9 +1,6 @@
-﻿  grid.cpp
-  gdisplay.cpp
-c:\users\panro\documents\github\snek\snek\src\gdisplay.cpp(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
-  main.cpp
-  example.cpp
-  Generating Code...
+﻿  main.cpp
+c:\users\panro\documents\github\snek\snek\src\main.cpp(99): warning C4244: 'initializing' : conversion from 'Uint32' to 'float', possible loss of data
+c:\users\panro\documents\github\snek\snek\src\main.cpp(101): warning C4244: 'argument' : conversion from 'float' to 'oxygine::timeMS', possible loss of data
 example.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
   oxygine_d.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
 example.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification

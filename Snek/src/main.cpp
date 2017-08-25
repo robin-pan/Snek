@@ -5,11 +5,14 @@
     You can start from example.cpp and example.h, which main functions are called from here.
 */
 #include "core/oxygine.h"
+#include "SDL.h"
 #include "Stage.h"
 #include "DebugActor.h"
 #include "example.h"
 
 using namespace oxygine;
+
+static const int FPS = 15;
 
 // This function is called each frame
 int mainloop()
@@ -85,12 +88,18 @@ void run()
 #endif
 
     // This is the main game loop.
-    while (1)
-    {
-        int done = mainloop();
-        if (done)
-            break;
-    }
+	while (true)
+	{
+		Uint32 start = SDL_GetTicks();
+
+		int done = mainloop();
+		if (done)
+			break;
+
+		float duration = SDL_GetTicks() - start;
+
+		if (duration < 1000 / FPS) sleep(1000 / FPS - duration);
+	}
     /*
      If we get here, the user has requested the Application to terminate.
      We dump and log all our created objects that have not been freed yet
