@@ -1,4 +1,4 @@
-# Install script for directory: /home/robin/Documents/Snek/Snek/proj.cmake
+# Install script for directory: /media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/cmake_install.cmake")
+  include("/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build/oxygine-framework/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/robin/Documents/Snek/Snek/proj.cmake/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

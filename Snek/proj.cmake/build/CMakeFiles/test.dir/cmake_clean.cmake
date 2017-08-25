@@ -1,11 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/cell.cpp.o"
-  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/example.cpp.o"
-  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/gdisplay.cpp.o"
-  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/grid.cpp.o"
-  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/snake.cpp.o"
-  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/subject.cpp.o"
-  "CMakeFiles/test.dir/home/robin/Documents/Snek/Snek/src/main.cpp.o"
+  "CMakeFiles/test.dir/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/src/cell.cpp.o"
+  "CMakeFiles/test.dir/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/src/example.cpp.o"
+  "CMakeFiles/test.dir/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/src/gdisplay.cpp.o"
+  "CMakeFiles/test.dir/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/src/grid.cpp.o"
+  "CMakeFiles/test.dir/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/src/snake.cpp.o"
+  "CMakeFiles/test.dir/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/src/subject.cpp.o"
+  "CMakeFiles/test.dir/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/src/main.cpp.o"
   "test.pdb"
   "test"
 )

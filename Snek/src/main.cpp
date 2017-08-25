@@ -98,7 +98,7 @@ void run()
 
 		float duration = SDL_GetTicks() - start;
 
-		if (duration < 1000 / FPS) sleep(1000 / FPS - duration);
+		if (duration < 1000 / FPS) SDL_Delay(1000 / FPS - duration);
 	}
     /*
      If we get here, the user has requested the Application to terminate.
@@ -159,7 +159,7 @@ extern "C"
 #endif
 
 #if EMSCRIPTEN
-        emscripten_set_main_loop(oneEmsc, 0, 0);
+        emscripten_set_main_loop(oneEmsc, FPS, 0);
 #endif
 
         return 0;

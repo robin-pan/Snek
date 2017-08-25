@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=c++11
 
 CXX_DEFINES = -DOX_HAVE_LIBJPEG -DOX_HAVE_LIBPNG -DOX_NO_HTTP
 
-CXX_INCLUDES = -I/home/robin/Documents/Snek/oxygine-framework/oxygine/src -I/home/robin/Documents/Snek/oxygine-framework/oxygine/third_party/linux/pthreads/include -I/home/robin/Documents/Snek/oxygine-framework/oxygine/third_party/linux/zlib -I/usr/include/SDL2 
+CXX_INCLUDES = -I/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/oxygine-framework/oxygine/src -I/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/oxygine-framework/oxygine/third_party/linux/pthreads/include -I/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/oxygine-framework/oxygine/third_party/linux/zlib -I/usr/include/SDL2 
 

@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-c0d6b946f7d4ae51733cc5dfa9b44ef2 data_js_tracker.c
-baecb5f157f3864f88615b451100c510 main_js_tracker.c

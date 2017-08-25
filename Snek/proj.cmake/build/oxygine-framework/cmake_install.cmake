@@ -1,4 +1,4 @@
-# Install script for directory: /home/robin/Documents/Snek/oxygine-framework
+# Install script for directory: /media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/oxygine-framework
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,13 +34,13 @@ endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/./debug" TYPE STATIC_LIBRARY FILES "/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/liboxygine-framework.a")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/./debug" TYPE STATIC_LIBRARY FILES "/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build/oxygine-framework/liboxygine-framework.a")
   endif("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/./release" TYPE STATIC_LIBRARY FILES "/home/robin/Documents/Snek/Snek/proj.cmake/build/oxygine-framework/liboxygine-framework.a")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/./release" TYPE STATIC_LIBRARY FILES "/media/robin/5CECDBAFECDB81A6/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build/oxygine-framework/liboxygine-framework.a")
   endif("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
 endif()
 

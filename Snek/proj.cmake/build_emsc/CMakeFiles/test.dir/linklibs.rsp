@@ -1,1 +1,0 @@
- -LC:/Users/panro/Documents/Snek/oxygine-framework/libs  -LC:/Users/panro/Documents/Snek/oxygine-framework/oxygine/third_party/emscripten/libraries oxygine-framework/liboxygine-framework.a -lnul -lSDL2main -lSDL2 libtest_1_main_js.a libtest_2_data_js.a 

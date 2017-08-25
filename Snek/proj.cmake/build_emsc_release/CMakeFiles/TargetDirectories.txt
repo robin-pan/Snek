@@ -1,0 +1,14 @@
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/CMakeFiles/list_install_components.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/CMakeFiles/test_1_main_js.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/CMakeFiles/test.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/CMakeFiles/test_2_data_js.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/CMakeFiles/edit_cache.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/CMakeFiles/install.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/CMakeFiles/rebuild_cache.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/CMakeFiles/install/local.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/oxygine-framework/CMakeFiles/list_install_components.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/oxygine-framework/CMakeFiles/oxygine-framework.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/oxygine-framework/CMakeFiles/edit_cache.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/oxygine-framework/CMakeFiles/install.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/oxygine-framework/CMakeFiles/rebuild_cache.dir
+C:/Users/panro/Documents/GitHub/Snek/Snek/proj.cmake/build_emsc_release/oxygine-framework/CMakeFiles/install/local.dir
